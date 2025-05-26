@@ -44,4 +44,53 @@ Example: A login form with input fields and a “Remember Me” checkbox signals
 
 
 ---
+Types of Wireframes
+
+Wireframes vary in their level of detail and interactivity. The two most common types are low-fidelity and high-fidelity wireframes:
+
+1. Low-Fidelity Wireframes
+
+Description:
+Low-fidelity wireframes are basic sketches or block diagrams that outline the structure and layout of a page. They use simple shapes and placeholders (e.g., boxes and lines) without detailed styling or real content.
+
+Use Case:
+Used early in the design process to brainstorm and communicate ideas quickly. They focus on layout and flow rather than aesthetics or detailed interactions.
+
+Tools:
+Pen and paper, Balsamiq, whiteboards.
+
+Example:
+A grayscale sketch showing a login screen with a logo placeholder, two input boxes, and a login button.
+
+
+---
+
+2. High-Fidelity Wireframes
+
+Description:
+High-fidelity wireframes are more detailed and closely resemble the final product. They include actual content, font choices, spacing, button states, and sometimes limited interactivity.
+
+Use Case:
+Used in later stages of the design process to present the final layout and interactions before prototyping or development.
+
+Tools:
+Figma, Adobe XD, Sketch.
+
+Example:
+A detailed web page mockup with brand colors, sample text, buttons, and icons positioned exactly as they would be in the final build.
+
+
+---
+
+Example Wireframe Type
+
+Review:
+Wireframe Example - Savanna
+
+Type:
+High-Fidelity Wireframe
+
+Reasoning:
+The wireframe shown in the link includes detailed UI components, specific fonts, color schemes, realistic content placement, and layout precision. These features indicate that it is intended to closely represent the final product design, making it suitable for stakeholder presentations or developer handoff.
+
 
