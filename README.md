@@ -93,4 +93,72 @@ High-Fidelity Wireframe
 Reasoning:
 The wireframe shown in the link includes detailed UI components, specific fonts, color schemes, realistic content placement, and layout precision. These features indicate that it is intended to closely represent the final product design, making it suitable for stakeholder presentations or developer handoff.
 
+Popular Wireframing Tools
+
+Wireframing tools help designers quickly create visual representations of user interfaces. These tools range from simple sketching apps to fully interactive design platforms. Below are some of the most popular wireframing tools used in the design industry:
+
+1. Figma (Recommended)
+
+Overview:
+Figma is a cloud-based design tool used for wireframing, UI/UX design, prototyping, and collaboration. It operates directly in the browser and supports real-time collaboration, making it ideal for teams.
+
+Key Features:
+
+Intuitive drag-and-drop interface
+
+Real-time multi-user collaboration
+
+Component-based design system
+
+Plugins and integrations
+
+Version control and comment threads
+
+Works on Windows, macOS, Linux (via browser), and even tablets
+
+
+Why Figma is Great for Wireframing:
+Figma allows designers to quickly build low- and high-fidelity wireframes using reusable components and auto-layout. Its collaborative environment enables teams to brainstorm, iterate, and review wireframes without needing to export files or use third-party tools.
+
+
+---
+
+2. Balsamiq
+
+Overview:
+Balsamiq offers a low-fidelity, sketch-style wireframing interface. It’s great for quick concept designs and early-stage ideation.
+
+Best For:
+Early wireframing, low-fidelity sketches, rapid brainstorming.
+
+
+---
+
+3. Adobe XD
+
+Overview:
+A powerful UI/UX design and prototyping tool from Adobe that supports wireframing, vector design, and interactive prototyping.
+
+Best For:
+High-fidelity designs, seamless Adobe Creative Cloud integration.
+
+
+---
+
+4. Sketch
+
+Overview:
+A vector-based design tool widely used for high-fidelity wireframes and interface design. It is macOS-only.
+
+Best For:
+Mac users working on detailed UI designs with reusable symbols.
+
+5. Lucidchart
+
+Overview:
+Primarily used for flowcharts and diagrams, Lucidchart also supports basic wireframing for app and website design.
+
+Best For:
+Diagram-heavy or flow-oriented wireframes and team planning.
+
 
