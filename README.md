@@ -202,4 +202,57 @@ In agile environments, wireframes can evolve as the product iterates. They allow
 Example:
 During sprint planning, a product team reviews wireframes of upcoming features to define tasks, estimate effort, and adjust priorities based on visual requirements.
 
+Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+Scenario: Designing a School Management Portal
+
+A software team was tasked with developing a school management portal to allow administrators, teachers, parents, and students to interact within one system. During the wireframing phase using Figma, the team designed dashboard layouts for each user role.
+
+Usability Issue Identified
+
+The initial wireframe placed all user functionalities—attendance, grading, announcements, and messaging—on a single dashboard screen with small icons and minimal grouping. During a design review session, both developers and school staff found it overwhelming and confusing, especially for non-technical users like parents and teachers.
+
+Key Issues:
+
+Too many features on one screen without clear categorization
+
+Icons used without accompanying labels caused misunderstanding
+
+Important functions like “Submit Grades” were hard to locate
+
+
+Resolution
+
+The team revisited the wireframes and:
+
+Introduced tab-based navigation to group related features (e.g., "Academics," "Communication," "Profile")
+
+Added text labels to all icons for clarity
+
+Prioritized and visually emphasized critical actions with buttons and card layouts
+
+Created role-specific dashboards to reduce clutter
+
+
+Impact on the Final Product
+
+These changes:
+
+Improved usability for all user groups
+
+Reduced support queries after launch
+
+Increased user adoption and satisfaction
+
+Allowed developers to code more efficiently based on clearer, revised UI structure
+
+
+
+---
+
+Conclusion: The Role of Wireframing in User-Friendly Design
+
+This scenario highlights how wireframing uncovers design flaws before they reach the costly development stage. By identifying usability issues early, teams can iterate rapidly, involve stakeholders meaningfully, and create solutions that are intuitive and goal-oriented.
+
+Wireframing ensures that every design decision aligns with user needs—making the final product not only functional, but truly user-friendly.
 
